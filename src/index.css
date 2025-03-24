@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+*{
+    font-family: "Rubik", sans-serif;
+}
+
+/* h1 {
+    font-size: 28px;
+    line-height: 17px;
+    font-style: normal;
+    font-weight: 450;
+    font-variant: normal;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 1;
+} */
+
+/* p{
+    font-size: 17px;
+    line-height: 26px;
+    font-weight: 400;
+} */
